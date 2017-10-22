@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "name": "mobile",
+            "price": 3000
+        },
+        {
+            "name": "notebook",
+            "price": 20000
+        },
+        {
+            "name": "TV",
+            "price": 12000
+        }
+    ]
+}
