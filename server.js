@@ -18,3 +18,5 @@ server.use('/graphql', graphqlHTTP({
 server.listen(port, function (err, result) {
     console.log('running in port http://localhost:' + port)
 })
+
+export default server
